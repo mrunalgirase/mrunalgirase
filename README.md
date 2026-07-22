@@ -121,11 +121,6 @@ Building intelligent products that solve real-world problems with AI.
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=mrunalgirase&theme=tokyonight&no-frame=true&margin-w=15)
-
----
 
 ## 📈 Profile Views
 
