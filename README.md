@@ -111,15 +111,6 @@ Building intelligent products that solve real-world problems with AI.
 
 ---
 
-# 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=mrunalgirase&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrunalgirase&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrunalgirase&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 
 ## 📈 Profile Views
